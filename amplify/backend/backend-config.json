@@ -1,1 +1,11 @@
-{}
+{
+  "auth": {
+    "amplifytodo4e87adb1": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

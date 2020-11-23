@@ -10,6 +10,24 @@
       "StackName": "amplify-amplifytodo-dev-182138",
       "StackId": "arn:aws:cloudformation:us-east-1:981537499700:stack/amplify-amplifytodo-dev-182138/afec13c0-2d75-11eb-a69b-0a7396047ff3",
       "AmplifyAppId": "d1rokwjjley1km"
+    },
+    "categories": {
+      "auth": {
+        "amplifytodo4e87adb1": {
+          "userPoolId": "us-east-1_RE647Cind",
+          "userPoolName": "nowl-protect-user-pool-staging",
+          "webClientId": "2laevqv4tln368oeh7cghvkjga",
+          "nativeClientId": "14e986c2079shvsoe1q4fpsriu",
+          "identityPoolId": "us-east-1:47d62b1a-013f-4a2c-b00e-d1324d99bb76",
+          "identityPoolName": "nop_identifypool_stage",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-stage-142044-unauthRole",
+          "authRoleName": "amplify-nopcloudrecording-stage-142044-unauthRole",
+          "unauthRoleArn": "arn:aws:iam::981537499700:role/amplify-nopcloudrecording-stage-142044-authRole",
+          "unauthRoleName": "amplify-nopcloudrecording-stage-142044-authRole",
+          "hostedUIProviderCreds": "[]"
+        }
+      }
     }
   }
 }
